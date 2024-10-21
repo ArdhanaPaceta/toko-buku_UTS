@@ -21,3 +21,8 @@ KELAS   : 2B TRPL
 5. KALAU BUKU TIDAK DITEMUKAN 
 
 ![alt text](image-4.png)
+
+5. DELETE DATA KATEGORIS MENGALAMI KENDALA
+
+![alt text](image-5.png)
+
